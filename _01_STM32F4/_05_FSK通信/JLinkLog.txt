@@ -1,0 +1,27 @@
+
+T2484 000:300 SEGGER J-Link V5.12e Log File (0002ms, 0281ms total)
+T2484 000:300 DLL Compiled: Apr 29 2016 15:03:58 (0002ms, 0281ms total)
+T2484 000:300 Logging started @ 2016-08-19 18:27 (0002ms, 0281ms total)
+T2484 000:302 JLINK_SetWarnOutHandler(...) (0000ms, 0281ms total)
+T2484 000:302 JLINK_OpenEx(...)
+Firmware: J-Link V9 compiled Mar 29 2016 18:46:37
+Hardware: V9.10
+S/N: 59100875
+Feature(s): GDB, RDI, FlashBP, FlashDL, JFlash  returns O.K. (0268ms, 0549ms total)
+T2484 000:570 JLINK_SetErrorOutHandler(...) (0000ms, 0549ms total)
+T2484 000:570 JLINK_ExecCommand("ProjectFile = "E:\_01_单片机\_02_STM32\_01_基地\_03_2016省赛板(STM32)\_02_程序\_01_我的程序\__通信\_11\JLinkSettings.ini"", ...)  returns 0x00 (0002ms, 0551ms total)
+T2484 000:580 JLINK_ExecCommand("Device = STM32F407ZG", ...)Device "STM32F407ZG" selected.  returns 0x00 (0007ms, 0558ms total)
+T2484 000:587 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0558ms total)
+T2484 000:587 JLINK_GetHardwareVersion()  returns 0x16378 (0000ms, 0558ms total)
+T2484 000:587 JLINK_GetDLLVersion()  returns 51205 (0000ms, 0558ms total)
+T2484 000:587 JLINK_GetFirmwareString(...) (0000ms, 0558ms total)
+T2484 000:595 JLINK_GetDLLVersion()  returns 51205 (0000ms, 0558ms total)
+T2484 000:595 JLINK_GetCompileDateTime() (0000ms, 0558ms total)
+T2484 000:596 JLINK_GetFirmwareString(...) (0000ms, 0558ms total)
+T2484 000:598 JLINK_GetHardwareVersion()  returns 0x16378 (0000ms, 0558ms total)
+T2484 000:608 JLINK_TIF_Select(JLINKARM_TIF_JTAG)  returns 0x00 (0004ms, 0562ms total)
+T2484 000:612 JLINK_SetSpeed(50000) (0001ms, 0563ms total)
+T2484 000:613 JLINK_GetIdData(...) (0000ms, 0563ms total)
+T2484 001:833 JLINK_Close() (0001ms, 0564ms total)
+T2484 001:833  (0001ms, 0564ms total)
+T2484 001:833 Closed (0001ms, 0564ms total)
